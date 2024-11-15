@@ -31,15 +31,15 @@ This project is a Java-based implementation of the classic Pac-Man arcade game, 
    ```bash
    java App
 
-How to Play:
+## How to Play:
 Use the arrow keys to control Pac-Man's movement through the maze.
 Avoid the ghosts as you collect pellets to increase your score.
 The game ends if a ghost catches Pac-Man.
 
-License:
+## License:
 This project is open-source and available under the MIT License.
 
-Author:
+## Author:
 Romeo Maunick - A developer passionate about recreating classic games in modern programming environments.
 
 
