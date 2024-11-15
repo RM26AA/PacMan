@@ -32,9 +32,9 @@ This project is a Java-based implementation of the classic Pac-Man arcade game, 
    java App
 
 ## How to Play:
-1.Use the arrow keys to control Pac-Man's movement through the maze.
-2.Avoid the ghosts as you collect pellets to increase your score.
-3.The game ends if a ghost catches Pac-Man.
+- Use the arrow keys to control Pac-Man's movement through the maze.
+- Avoid the ghosts as you collect pellets to increase your score.
+- The game ends if a ghost catches Pac-Man.
 
 ## License:
 This project is open-source and available under the MIT License.
